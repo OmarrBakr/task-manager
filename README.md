@@ -39,3 +39,7 @@ This project is a Task Manager web application that allows users to create, upda
 
   * Run the following command to start the server:
      * npm start
+
+### 4. Documentation
+  
+  * *http://localhost:5000/api-docs/**
