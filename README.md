@@ -38,4 +38,4 @@ This project is a Task Manager web application that allows users to create, upda
 ### 3. Start the application
 
   * Run the following command to start the server:
-      npm start
+     * npm start
