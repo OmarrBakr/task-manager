@@ -42,4 +42,4 @@ This project is a Task Manager web application that allows users to create, upda
 
 ### 4. Documentation
   
-  * *http://localhost:5000/api-docs/**
+  * *http://localhost:5000/api-docs/*
